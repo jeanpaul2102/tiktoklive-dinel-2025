@@ -47,3 +47,48 @@ El proyecto incluye un dashboard interactivo en Power BI que muestra:
 ### Archivo .pbix
 Descarga el dashboard:
 - [TikTokLive_Dashboard.pbix](TikTokLive_Dashboard.pbix)
+
+🔍 Insights y Estrategia (ES)
+
+Perfil:
+Observaciones a nivel general:
+
+-Usa palabras a veces agresivas.
+-No siempre habla, suele quedarse observando la pantalla.
+- Falta de conexión entre su nicho (fitness) y lo que muestra en algunos lives.
+- Mayor actividad desde el 14 de junio, usualmente a las 10 pm PT (~90 min).
+- Promedia 30k likes por live, pero no es consistente.
+
+Éxitos
+- Uso de batallas para aumentar interacción.
+- Consistencia y disciplina.
+- Alcance mínimo de ~10k likes en la mayoría de lives.
+- Fan club y opciones de monetización activadas.
+- Interacción rápida preguntando de dónde son los usuarios.
+
+Áreas de mejora
+
+- Conectar mejor sus reels/TikToks con el contenido en vivo.
+- Evitar lenguaje agresivo.
+- Ser más claro al explicar rutinas y beneficios.
+- Mantener coherencia con su mensaje de “suscríbete para entrenar conmigo”.
+- Uso de Live highlights fijados.
+
+Oportunidades
+
+Fase 1: Capacitación en herramientas de TikTok Live (suscripciones, fan club, eventos en vivo).
+Fase 2: Ejecución paso a paso →
+
+Promocionar su marca personal.
+Conectar rutinas de fitness en reels y en vivos.
+Establecer horario fijo.
+Comunicar claramente los beneficios del entrenamiento.
+Resultados esperados
+Mayor dominio de herramientas de TikTok.
+Mayor interacción con la audiencia.
+Engagement más consistente.
+Crecimiento en likes y seguidores.
+Posicionamiento dentro de la comunidad latina de fitness.
+
+🔍 Insights and Strategy (EN)
+Pending

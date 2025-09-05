@@ -30,3 +30,20 @@ data/tiktok_live_dataset_2025.csv → live details (date, start/end time, durati
 data/daily_summary_2025.csv → daily summary.
 
 data/monthly_summary_2025.csv → monthly summary.
+
+## 📊 Dashboard Power BI
+
+El proyecto incluye un dashboard interactivo en Power BI que muestra:
+
+- Tendencia de likes diarios
+- Likes por mes
+- Distribución de likes por día de la semana
+- Heatmap por día/hora
+- Top Lives
+
+### Vista previa
+![Dashboard Power BI](docs/plots/Final_Dashboard.png)
+
+### Archivo .pbix
+El archivo del dashboard está disponible aquí:
+- [dashboard/TikTokLive_Dashboard.pbix](dashboard/TikTokLive_Dashboard.pbix)

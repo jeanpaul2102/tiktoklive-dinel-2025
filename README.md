@@ -42,7 +42,7 @@ El proyecto incluye un dashboard interactivo en Power BI que muestra:
 - Top Lives
 
 ### Vista previa
-![Dashboard Power BI](docs/plots/Final_Dashboard.png)
+![Dashboard Power BI](docs/plots/Final Dashboard Tiktoklive.png)
 
 ### Archivo .pbix
 El archivo del dashboard está disponible aquí:

@@ -15,17 +15,9 @@ Los datasets están listos para ser importados en **Power BI**.
 - `data/daily_summary_2025.csv` → resumen diario.  
 - `data/monthly_summary_2025.csv` → resumen mensual.  
 
-### 🚀 Uso rápido
-```bash
-pip install -r requirements.txt
-# (opcional) OCR a partir de capturas en data/raw_screenshots/
-python src/tiktok_live_ocr.py
-# limpieza + agregaciones → genera CSVs 2025
-python src/clean_transform.py
 
 
-**## English
-
+## English
 
 Analysis of TikTok Lives from dinel_fitness_ (originally from Nicaragua, currently living in Dallas, TX).
 Dataset covers June – September 2025.

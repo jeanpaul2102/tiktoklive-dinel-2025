@@ -6,7 +6,7 @@
 
 ## Español
 
-Análisis de lives de TikTok de **dinel_fitness_** (originario de Nicaragua, viviendo en Dallas, TX).  
+Análisis de Lives de TikTok (Tiktok Live) de **dinel_fitness_** (originario de Nicaragua, viviendo en Dallas, TX).  
 Datos recolectados entre **junio y septiembre de 2025**.  
 Los datasets están listos para ser importados en **Power BI**.
 

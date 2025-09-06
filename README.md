@@ -72,21 +72,56 @@ Observaciones a nivel general:
 - Mantener coherencia con su mensaje de “suscríbete para entrenar conmigo”.
 - Uso de Live highlights fijados.
 
-Oportunidades
+Como lograr una mejora:
 
-Fase 1: Capacitación en herramientas de TikTok Live (suscripciones, fan club, eventos en vivo).
-Fase 2: Ejecución paso a paso →
+- Fase 1: Capacitación en herramientas de TikTok Live (suscripciones, fan club, eventos en vivo).
+- Fase 2: Ejecución paso a paso →
 
-Promocionar su marca personal.
-Conectar rutinas de fitness en reels y en vivos.
-Establecer horario fijo.
-Comunicar claramente los beneficios del entrenamiento.
-Resultados esperados
-Mayor dominio de herramientas de TikTok.
-Mayor interacción con la audiencia.
-Engagement más consistente.
-Crecimiento en likes y seguidores.
-Posicionamiento dentro de la comunidad latina de fitness.
+    Promocionar su marca personal.
+    Conectar rutinas de fitness en reels y en vivos.
+    Establecer horario fijo.
+    Comunicar claramente los beneficios del entrenamiento.
+    Resultados esperados
+    Mayor dominio de herramientas de TikTok.
+    Mayor interacción con la audiencia.
+    Engagement más consistente.
+    Crecimiento en likes y seguidores.
+    Posicionamiento dentro de la comunidad latina de fitness.
 
 🔍 Insights and Strategy (EN)
-Pending
+Profile
+General Observations
+- Sometimes uses aggressive wording.
+- Doesn’t always speak, often just watches the screen.
+- Weak connection between fitness niche and some live content.
+- More active since June 14, usually around 10 pm PT (~90 min).
+- Averages ~30k likes per live, but inconsistent.
+
+Strengths
+- Uses battles to boost interaction.
+- Consistent and disciplined.
+
+Minimum reach of ~10k likes in most lives.
+- Fan club and monetization options activated.
+- Engages quickly by asking where viewers are from.
+
+Areas to Improve
+- Align reels/TikToks with live content.
+- Avoid aggressive language.
+- Be clearer when explaining routines and benefits.
+- Stay consistent with “subscribe to train with me” message.
+- Use pinned Live highlights.
+
+How to achieve an improvement:
+- Phase 1: Training on TikTok Live tools (subscriptions, fan club, live events).
+- Phase 2: Step-by-step execution:
+    Promote personal brand.
+    Connect fitness routines in reels and lives.
+    Establish a fixed schedule.
+    Clearly communicate training benefits.
+    Expected Results
+    Better command of TikTok tools.
+    Stronger audience interaction.
+    More consistent engagement.
+    Growth in likes and followers.
+    Positioning within the Latin fitness community.

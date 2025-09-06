@@ -122,7 +122,7 @@ The project includes an interactive Power BI dashboard showing:
 - Likes per month
 - Likes distribution by weekday
 
-🔍 Insights and Strategy (EN)
+🔍 Insights and Strategy
 Profile / General Observations
 - There is a weak connection between fitness niche and some live content.
 - The creator sometimes uses aggressive wording.

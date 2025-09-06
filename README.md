@@ -69,16 +69,16 @@ Como lograr una mejora:
 - Fase 1: Capacitación en herramientas de TikTok Live (suscripciones, fan club, eventos en vivo).
 - Fase 2: Ejecución paso a paso →
 
-    Promocionar su marca personal.
-    Conectar rutinas de fitness en reels y en vivos.
-    Establecer horario fijo.
-    Comunicar claramente los beneficios del entrenamiento.
-    Resultados esperados
-    Mayor dominio de herramientas de TikTok.
-    Mayor interacción con la audiencia.
-    Engagement más consistente.
-    Crecimiento en likes y seguidores.
-    Posicionamiento dentro de la comunidad latina de fitness.
+    * Promocionar su marca personal.
+    * Conectar rutinas de fitness en reels y en vivos.
+    * Establecer horario fijo.
+    * Comunicar claramente los beneficios del entrenamiento.
+    * Resultados esperados
+    * Mayor dominio de herramientas de TikTok.
+    * Mayor interacción con la audiencia.
+    * Engagement más consistente.
+    * Crecimiento en likes y seguidores.
+    * Posicionamiento dentro de la comunidad latina de fitness.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -117,13 +117,13 @@ Areas to Improve
 How to achieve an improvement:
 - Phase 1: Training on TikTok Live tools (subscriptions, fan club, live events).
 - Phase 2: Step-by-step execution:
-    Promote personal brand.
-    Connect fitness routines in reels and lives.
-    Establish a fixed schedule.
-    Clearly communicate training benefits.
-    Expected Results
-    Better command of TikTok tools.
-    Stronger audience interaction.
-    More consistent engagement.
-    Growth in likes and followers.
-    Positioning within the Latin fitness community.
+    * Promote personal brand.
+    * Connect fitness routines in reels and lives.
+    * Establish a fixed schedule.
+    * Clearly communicate training benefits.
+    * Expected Results
+    * Better command of TikTok tools.
+    * Stronger audience interaction.
+    * More consistent engagement.
+    * Growth in likes and followers.
+    * Positioning within the Latin fitness community.

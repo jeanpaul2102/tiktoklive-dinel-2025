@@ -107,7 +107,7 @@ Files are ready to be imported into Power BI.
 
 ⚙️ Data Collection & Analysis Process
 
-1. Data collection: screenshots of TikTok Lives were taken.
+1. Data collection: screenshots of TikTok Lives data were taken.
 2. OCR with Python: a Python script using Tesseract OCR was developed to transcribe text from images (date, start/end time, likes count).
 3. Cleaning & transformation: with Pandas, the data was structured into three CSV files ready for analysis:
   * tiktok_live_dataset_2025.csv (detailed live records)

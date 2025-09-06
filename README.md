@@ -100,8 +100,7 @@ General Observations
 Strengths
 - Uses battles to boost interaction.
 - Consistent and disciplined.
-
-Minimum reach of ~10k likes in most lives.
+- Minimum reach of ~10k likes in most lives.
 - Fan club and monetization options activated.
 - Engages quickly by asking where viewers are from.
 

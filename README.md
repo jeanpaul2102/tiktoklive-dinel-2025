@@ -1,5 +1,12 @@
-# TikTok Live – dinel_fitness_ (2025)
+# TikTok Live Analysis – dinel_fitness_ (2025)
 
+```mermaid
+flowchart LR
+    A[📸 Capturas de pantalla de TikTok Live] --> B[🧠 Python + Tesseract OCR<br/>Transcribir texto desde imágenes]
+    B --> C[🧹 Limpieza & Transformación<br/>con Pandas]
+    C --> D[📂 CSVs generados:<br/>tiktok_live_dataset_2025.csv<br/>daily_summary_2025.csv<br/>monthly_summary_2025.csv]
+    D --> E[📊 Dashboard Power BI<br/>Métricas e Insights]
+```
 **ES / EN bilingual README**
 
 ---
@@ -99,6 +106,14 @@ Analysis of TikTok Lives from dinel_fitness_ (originally from Nicaragua, current
 Dataset covers June – September 2025.
 Files are ready to be imported into Power BI.
 
+```mermaid
+flowchart LR
+    A[📸 Screenshots de TikTok Live] --> B[🧠 Python + Tesseract OCR<br/>Transcribe text from images]
+    B --> C[🧹 Cleaning & Transformation<br/>with Pandas]
+    C --> D[📂 CSVs generated:<br/>tiktok_live_dataset_2025.csv<br/>daily_summary_2025.csv<br/>monthly_summary_2025.csv]
+    D --> E[📊 Power BI Dashboard<br/>Metrics & Insights]
+```
+
 ### 📊 Datasets
 
 - data/tiktok_live_dataset_2025.csv → details of each live (date, time, duration, likes).
@@ -169,3 +184,4 @@ Expected Results
 - More consistent engagement.
 - Growth in likes and followers.
 - Positioning within the Latin fitness community.
+

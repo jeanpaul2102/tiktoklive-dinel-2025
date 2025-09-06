@@ -51,8 +51,8 @@ Descarga el dashboard:
 Perfil:
 Observaciones a nivel general:
 
--Usa palabras a veces agresivas.
--No siempre habla, suele quedarse observando la pantalla.
+- Usa palabras a veces agresivas.
+- No siempre habla, suele quedarse observando la pantalla.
 - Falta de conexión entre su nicho (fitness) y lo que muestra en algunos lives.
 - Mayor actividad desde el 14 de junio, usualmente a las 10 pm PT (~90 min).
 - Promedia 30k likes por live, pero no es consistente.

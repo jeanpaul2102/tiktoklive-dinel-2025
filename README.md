@@ -64,21 +64,31 @@ Observaciones a nivel general:
 - Mantener coherencia con su mensaje de “suscríbete para entrenar conmigo”.
 - Uso de Live highlights fijados.
 
-Como lograr una mejora:
+🚀 Roadmap de Mejora
 
-- Fase 1: Capacitación en herramientas de TikTok Live (suscripciones, fan club, eventos en vivo).
-- Fase 2: Ejecución paso a paso →
+Fase 1: Capacitación en todas las herramientas disponibles de TikTok Live; por ejemplo las siguientes:
+- Suscripciones
+- Fan club
+- Eventos en vivo
 
-    * Promocionar su marca personal.
-    * Conectar rutinas de fitness en reels y en vivos.
-    * Establecer horario fijo.
-    * Comunicar claramente los beneficios del entrenamiento.
-    * Resultados esperados
-    * Mayor dominio de herramientas de TikTok.
-    * Mayor interacción con la audiencia.
-    * Engagement más consistente.
-    * Crecimiento en likes y seguidores.
-    * Posicionamiento dentro de la comunidad latina de fitness.
+Fase 2: Ejecución paso a paso
+- Promocionar su marca personal.
+- Conectar rutinas de fitness en reels y en vivos.
+- Establecer horario fijo.
+- Comunicar beneficios del entrenamiento de forma clara.
+
+Fase 3: Evaluación y mejora continua
+- Mostrar métricas simples y concisas al creador.
+- Fomentar un ciclo de: crear → evaluar → implementar → mejorar → controlar.
+
+Resultados esperados
+
+- Mayor dominio de herramientas de TikTok.
+- Más interacción con la audiencia.
+- Engagement más consistente.
+- Crecimiento en likes y seguidores.
+- Posicionamiento dentro de la comunidad latina de fitness.
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,7 +98,6 @@ Como lograr una mejora:
 Analysis of TikTok Lives from dinel_fitness_ (originally from Nicaragua, currently living in Dallas, TX).
 Dataset covers June – September 2025.
 Files are ready to be imported into Power BI.
-
 
 
 🔍 Insights and Strategy (EN)
@@ -114,16 +123,27 @@ Areas to Improve
 - Stay consistent with “subscribe to train with me” message.
 - Use pinned Live highlights.
 
-How to achieve an improvement:
-- Phase 1: Training on TikTok Live tools (subscriptions, fan club, live events).
-- Phase 2: Step-by-step execution:
-    * Promote personal brand.
-    * Connect fitness routines in reels and lives.
-    * Establish a fixed schedule.
-    * Clearly communicate training benefits.
-    * Expected Results
-    * Better command of TikTok tools.
-    * Stronger audience interaction.
-    * More consistent engagement.
-    * Growth in likes and followers.
-    * Positioning within the Latin fitness community.
+🚀 Improvement Roadmap
+
+Phase 1: Training on available TikTok Live tools; for instance the following: 
+- Subscriptions
+- Fan club
+- Live events
+
+- Phase 2: Step-by-step execution
+- Promote personal brand.
+- Connect fitness routines in reels and lives.
+- Establish a fixed schedule.
+- Clearly communicate training benefits.
+
+Phase 3: Continuous evaluation and improvement
+- Show simple, concise metrics to the creator.
+- Foster a cycle of: create → evaluate → implement → improve → control.
+
+Expected Results
+
+- Better command of TikTok tools.
+- Stronger audience interaction.
+- More consistent engagement.
+- Growth in likes and followers.
+- Positioning within the Latin fitness community.

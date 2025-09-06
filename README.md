@@ -104,7 +104,7 @@ Files are ready to be imported into Power BI.
 Profile
 General Observations
 - Sometimes uses aggressive wording.
-- Doesn’t always speak, often just watches the screen.
+- Does not always speak, often just watches the screen.
 - Weak connection between fitness niche and some live content.
 - More active since June 14, usually around 10 pm PT (~90 min).
 - Averages ~30k likes per live, but inconsistent.

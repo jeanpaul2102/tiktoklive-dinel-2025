@@ -38,8 +38,6 @@ El proyecto incluye un dashboard interactivo en Power BI que muestra:
 - Tendencia de likes diarios
 - Likes por mes
 - Distribución de likes por día de la semana
-- Heatmap por día/hora
-- Top Lives
 
 ### Vista previa
 ![Dashboard Power BI](Final%20Dashboard%20Tiktoklive.png)
